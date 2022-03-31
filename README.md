@@ -19,12 +19,13 @@ Deliverable 4: Design a Study Comparing the MechaCar to the Competition
 
 ## Resources
 Software: R version 4.0.1
+
 Data:  MechaCar_mpg.csv, Suspension_Coil.csv
 
 ## Linear Regression to Predict MPG
 The MechaCar_mpg.csv dataset contains mpg test results for 50 prototype MechaCars. The MechaCar prototypes were produced using multiple design specifications to identify ideal vehicle performance. Multiple metrics, such as vehicle length, vehicle weight, spoiler angle, drivetrain, and ground clearance, were collected for each vehicle. R was used to design a linear model that predicts the mpg of MechaCar prototypes using several variables from the MechaCar_mpg.csv file. 
 
-[OUTPUT FROM LINEAR REGRESSION]
+![OUTPUT FROM LINEAR REGRESSION](https://github.com/PatriciaCB1/UFOs/blob/main/Static/images/UFOs%20Unfiltered.png)
 
 Interpretation of the multiple linear regression results
 
