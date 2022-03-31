@@ -46,8 +46,8 @@ The MechaCar Suspension_Coil.csv dataset contains the results from multiple prod
 The suspension coil’s PSI continuous variable across all manufacturing lots
 The following PSI metrics for each lot: mean, median, variance, and standard deviation.
 
-![Total Summary](https://github.com/PatriciaCB1/MechaCar_Statistical_Analysis/blob/main/Images/Output%20from%20Linear%20Regression.png)
-![Lot Summary](https://github.com/PatriciaCB1/MechaCar_Statistical_Analysis/blob/main/Images/Output%20from%20Linear%20Regression.png)
+![Total Summary](https://github.com/PatriciaCB1/MechaCar_Statistical_Analysis/blob/main/Images/Total%20Summary.png)
+![Lot Summary](https://github.com/PatriciaCB1/MechaCar_Statistical_Analysis/blob/main/Images/Lot%20Summary.png)
 
 The design specifications for the MechaCar suspension coils dictate that the variance of the suspension coils must not exceed 100 pounds per square inch. With a variance of 62.29 PSI across the manufacuring lots this meets this design specification.  Individually Lot 1 and Lot 2 are within the acceptable PSI design specification with variances of 0.9795918 and 7.4693878 respectively.  Lot 3, however, does individually exceed the design specification pertaining to the variance of suspension coils with a variance of 170.2861224.
 
@@ -55,11 +55,11 @@ The design specifications for the MechaCar suspension coils dictate that the var
 
 T-tests were performed to determine if all manufacturing lots and each lot individually are statistically different from the population mean of 1,500 pounds per square inch.
 
-[t-tests across all Lots]
+![t-tests across all Lots](https://github.com/PatriciaCB1/MechaCar_Statistical_Analysis/blob/main/Images/T-Test%20Across%20All%20Lots.png)
 
 The mean across all manufacturing lots is 1497.507 at the 95% confidence level and overall mean is 1498.78,  which is similar to the population mean of 1,500 pounds per square inch.
 
-[t-tests across individual Lots]
+![t-tests across individual Lots](https://github.com/PatriciaCB1/MechaCar_Statistical_Analysis/blob/main/Images/T-Test%20Across%20Individual%20Lots.png)
 
 Lot 1
 Mean 95 percent confidence interval:  1499.719
